@@ -20,6 +20,8 @@
 
 - ![step01](/course-images/img0030.png)
 
+---
+
 ```txt
 元素：
   浏览器标题：title
@@ -33,8 +35,12 @@
   保存：CTRL + S
   格式化代码：ALT + SHIFT + F
 技巧：
-  善用智能提示来编写代码
+  善用智能提示来编写代码（查看下方图片显示）
 ```
+
+---
+
+- ![step01](/course-images/gif0001.gif)
 
 ---
 [返回顶端](#块引用)
