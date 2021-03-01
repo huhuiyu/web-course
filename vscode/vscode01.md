@@ -1,4 +1,4 @@
-# VSCode安装
+# vscode安装
 
 [返回目录](/vscode/README.md)
 

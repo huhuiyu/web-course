@@ -1,10 +1,10 @@
-# VSCode安装
+# vscode插件
 
 [返回目录](/vscode/README.md)
 
 ---
 
-- [VSCode安装](#vscode安装)
+- [vscode插件](#vscode插件)
   - [英文状态下安装插件](#英文状态下安装插件)
   - [中文状态下安装插件](#中文状态下安装插件)
   - [常用插件](#常用插件)
@@ -40,6 +40,7 @@
 - `markdownlint`：Markdown语法检测插件
 - `Markdown Preview Enhanced`：Markdown文件效果预览
 - `Vetur`：vue插件
+- `Dracula Official`：好看的
 - `Power Mode`：好玩的
 
 [返回目录](/vscode/README.md)
